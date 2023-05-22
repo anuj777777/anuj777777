@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayushman45679" target="blank"><img src="https://img.shields.io/twitter/follow/ayushman45679?logo=twitter&style=for-the-badge" alt="ayushman45679" /></a> </p>
 
-- 🌱 I’m currently learning **Raect js and node js**
+- 🌱 I’m currently learning **React js and node js**
 
 - 💬 Ask me about **react,javascript,redux,next.js,node.js**
 
